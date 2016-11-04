@@ -1,0 +1,11 @@
+Robot Settlement.inform/Settings.plist
+*.html
+Robot Settlement.inform/Build/auto.inf
+Robot Settlement.inform/Build/image.txt
+*.ulx
+Robot Settlement.inform/Index/Headings.xml
+*.plist
+Robot Settlement.inform/Release.blurb
+*.iFiction
+Robot Settlement.inform/Build/Debug log.txt
+Robot Settlement.inform/uuid.txt
